@@ -1,0 +1,39 @@
+body {
+    width: 960px;
+    margin: 0 auto;}
+    #content {
+    overflow: auto;
+    height: 100%;}
+    #feature {
+        text-align: center;
+        font-size: 150%; color: blue;
+        background-color: rgb(230, 245, 101);
+        border-end-end-radius: 2px;
+    }
+    h1 {
+        text-align: center;color: rgb(37, 14, 170);
+        font-style: italic;
+        font-size: 200%;
+    }
+    #nav{
+        background-color: aqua;
+      text-align: center;  
+      font-size: xx-large; color: rgb(141, 10, 10);
+    }
+    #nav, #feature, #footer {
+    background-color: #efefef;
+    padding: 10px;
+    margin: 10px;}
+    .column1, .column2, .column3 {
+        text-align: center;
+    background-color: #efefef;
+    width: 300px;
+    float: left;
+    margin: 10px;}
+    li {
+    display: inline;
+    padding: 5px;}
+    #footer{
+        text-align: center;font-size: 150%; color: blue;
+        background-color: rgb(243, 240, 74);
+    }
